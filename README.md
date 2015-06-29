@@ -6,7 +6,7 @@ and the script create for you a CLAPI file (Centreon CLI for create object into 
   - INPUT : config file (disco_interfaces.cfg)
   - OUTPUT : CLAPI.sh (you can run to create the interfaces in Centreon.
 
-![Screenshot 1](https://github.com/sgaudart/centreon-toolbox/blob/master/disco_interfaces/disco_interfaces.png)
+![Screenshot 1](https://github.com/sgaudart/disco_interfaces/blob/master/disco_interfaces.png)
 
 ## Requirement
 
